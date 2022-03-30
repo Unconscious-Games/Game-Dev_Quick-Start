@@ -19,7 +19,7 @@ As a bit of a motivational note: Time and efficiency are your only limiting fact
 
 [Rpg-Maker-Link](https://store.steampowered.com/app/363890/RPG_Maker_MV/)
 
-[Construct](https://www.construct.net/en)
+[Construct-Link](www.construct.net/en)
 
 **Asset Creation Tools**
 
@@ -32,6 +32,10 @@ As a bit of a motivational note: Time and efficiency are your only limiting fact
 **Actionable Learning Resources**
 
 _Practical Knowledge_ - Knowledge that will give you direct, quick, & actionble results and serve as a good basis for reference.
+
+General:
+
+[25 Game Dev Tips-VideoLink](https://youtu.be/sVVn1C3F87A)
 
 Art: 
 
@@ -56,7 +60,7 @@ Programming:
 
 _Theoretical Knowledge_ - Knowledge that will result in a deeper level of understanding of computer science/software engineering more broadly and requires general knowledge of mathematics, logic, and an abstract frame of reference. 
 
-At this level you basically open yourself up to literally everything. Gaining Knowledge in this realm is literally like opening pandora's box, so advance at your own risk /and pace
+At this level you basically open yourself up to literally everything. Gaining Knowledge in this realm is literally like opening pandora's box, so advance at your own risk and pace
 
 General Computation:
 

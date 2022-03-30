@@ -1,5 +1,5 @@
 # Game-Dev_Quick-Start
-A quick-start guide for new developers looking for direction in the making games.
+A quick-start guide for new developers looking for direction in making games.
 
 FAQ: 
 Is This Guide Useful To Me? - I believe any junior in the field and industry of game development could gain at least a little bit of a benefit from this guide, unless you're looking for specialized information or career advice/guidance.

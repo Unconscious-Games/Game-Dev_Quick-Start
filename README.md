@@ -50,7 +50,7 @@ Programming:
 
 [Game Programming Patterns-BookLink](https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906/ref=sr_1_1?)         
 
-[cs50-CourseLink](https://youtu.be/YoXxevp1WRQ)
+[cs50-CourseLink](https://youtube.com/playlist?list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki)
 
 [One Lone Code-ChannelLink](https://www.youtube.com/c/javidx9/featured)
 

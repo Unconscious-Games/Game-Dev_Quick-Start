@@ -31,7 +31,7 @@ As a bit of a motivational note: Time and efficiency are your only limiting fact
 
 **Actionable Learning Resources**
 
-_Practical Knowledge_ - Knowledge that will give you direct, quick, & actionble results and serve as a good basis for reference.
+_Practical Knowledge_ - Knowledge that will give you direct, quick, & actionable results and serve as a good basis for reference.
 
 General:
 
@@ -57,6 +57,8 @@ Programming:
 [Math For Computer Science-VideoLink](https://youtu.be/DPfxjQ6sqrc)
 
 [All The Math You've Missed-BookLink](https://www.amazon.com/All-Mathematics-Missed-Thomas-Garrity/dp/0521797071/ref=sr_1_4?)
+
+[Data Structures For Game Devs](https://youtube.com/playlist?list=PL67lcUvJcLZf1o5FsRACq2H_LQeo33tgr)
 
 _Theoretical Knowledge_ - Knowledge that will result in a deeper level of understanding of computer science/software engineering more broadly and requires general knowledge of mathematics, logic, and an abstract frame of reference. 
 

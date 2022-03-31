@@ -60,7 +60,7 @@ Programming:
 
 _Theoretical Knowledge_ - Knowledge that will result in a deeper level of understanding of computer science/software engineering more broadly and requires general knowledge of mathematics, logic, and an abstract frame of reference. 
 
-At this level you basically open yourself up to literally everything. Gaining Knowledge in this realm is literally like opening pandora's box, so advance at your own risk and pace
+At this level you basically open yourself up to literally everything. Gaining Knowledge in this realm is literally akin to opening pandora's box, so advance at your own risk and pace
 
 General Computation:
 
